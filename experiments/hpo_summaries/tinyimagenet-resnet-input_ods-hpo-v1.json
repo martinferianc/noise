@@ -1,0 +1,1 @@
+{"hpo_time": 684000.00, "architecture": "resnet", "dataset": "tinyimagenet", "num_samples": 50, "best_hyperparameters": {"noise_input_ods_temperature": 1.7532877050933273, "noise_input_ods_eta": 0.0018662266976517971, "noise_probabilities": 0.6458941130666561}, "best_score": 2.6332929134368896, "sampled_configurations": [], "scores_per_configuration": []}
