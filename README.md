@@ -6,7 +6,7 @@ by Martin Ferianc*, Ondrej Bohdal*, Timothy Hospedales, Miguel R. D. Rodrigues
 
 TLDR: Investigation of how noise perturbations impact neural network calibration and generalisation, identifying which perturbations are helpful and when.
 
-Paper: [TMLR](https://openreview.net/forum?id=zn3fB4VVF0), Video: [YouTube](TODO)
+Paper: [TMLR](https://openreview.net/forum?id=zn3fB4VVF0), Video: [YouTube](https://www.youtube.com/watch?v=fvKvDGZdGL0)
 
 - [Navigating Noise: A Study of How Noise Influences Generalisation and Calibration of Neural Networks](#navigating-noise-a-study-of-how-noise-influences-generalisation-and-calibration-of-neural-networks)
   - [Abstract](#abstract)
